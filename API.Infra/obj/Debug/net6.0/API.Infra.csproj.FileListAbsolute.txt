@@ -1,0 +1,15 @@
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\bin\Debug\net6.0\API.Infra.deps.json
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\bin\Debug\net6.0\API.Infra.dll
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\bin\Debug\net6.0\API.Infra.pdb
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\bin\Debug\net6.0\API.Domain.dll
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\bin\Debug\net6.0\API.Domain.pdb
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.csproj.AssemblyReference.cache
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.AssemblyInfoInputs.cache
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.AssemblyInfo.cs
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.csproj.CopyComplete
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.dll
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\refint\API.Infra.dll
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\API.Infra.pdb
+C:\Users\Ideapad320\Documents\Projetos\API\API.Infra\obj\Debug\net6.0\ref\API.Infra.dll
